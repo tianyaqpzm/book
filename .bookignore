@@ -1,0 +1,5 @@
+
+# Ignore the file test.md
+themes/*
+public/*
+node_modules/*
